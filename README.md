@@ -18,6 +18,10 @@ A few notes:
 
 3: Some scripts from previous videos are straight-up missing. I think I saved over a script for a previous video while working on a new one at various times.
 
+4: Please don't ask about obtaining ROMs.
+
+5: Note that there are sometimes different revisions of a game out there. The U.S. cartridge version of the Legend of Zelda has multiple ROM versions, for example. I guess we could say that lua scripts may have a ROM version dependency.
+
 I would love to hear from any of you that modify these scripts or use them to help develop new scripts of your own.
 
 Thank you to everyone that has ever reversed a game and shared their findings on the web.
